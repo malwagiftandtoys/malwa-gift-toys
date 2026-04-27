@@ -1,0 +1,7 @@
+# Create .gitignore in the malwa-gift-toys root folder
+node_modules/
+.env
+.env.local
+frontend/build/
+backend/uploads/
+*.log
