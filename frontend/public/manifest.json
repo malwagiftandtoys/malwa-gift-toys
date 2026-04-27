@@ -1,0 +1,11 @@
+{
+  "short_name": "Malwa Gifts",
+  "name": "Malwa Gift and Toys - Bathinda",
+  "icons": [
+    {"src": "favicon.ico","sizes": "64x64","type": "image/x-icon"}
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#FF6B35",
+  "background_color": "#FFF9F4"
+}
